@@ -1,7 +1,9 @@
 # \<div\> block art
-A fun thing I made to practice DOM manipulation with JavaScript.
+A fun thing I made to practice JavaScript DOM manipulation. [Visit the **web page** to try...](https://ellenlloyd.ca/div-art/) It's strangely addicting!
 
-Fun fact: the html \<body\> section for this is barely 8 lines:
+<img src="og.png" alt="<div> block art: click to create and change!" title="Div Art" width="800"/>
+
+Fun fact: the initial html \<body\> for this is barely 8 lines:
 
 ```html
 <header>
@@ -15,4 +17,3 @@ Fun fact: the html \<body\> section for this is barely 8 lines:
 
 <script src="div-art.js"></script>
 ```
-Visit the **[web page here](https://ellenlloyd.ca/div-art/)** to try it out. It's strangely addicting!
